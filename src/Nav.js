@@ -1,4 +1,6 @@
+import React from "react";
 import { Navigation } from "react-native-navigation";
+import AntDesign from "react-native-vector-icons/AntDesign";
 
 import { registerScreens } from "./screens";
 
